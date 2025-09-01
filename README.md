@@ -23,3 +23,4 @@ Notes & next steps:
 - The AI is intentionally small and configured for quick response (change depth in GUI).
 - If you want stronger AI, I can show how to integrate Stockfish (requires downloading the engine binary) and run it with python-chess's engine module.
 - If you want Win7-specific piece art or sound effects, provide assets or I can recommend sprite packs and show how to load them.
+
